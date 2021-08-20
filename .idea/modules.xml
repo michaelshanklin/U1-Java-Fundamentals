@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/1.5 Practice Problems/1.5 Practice Problems.iml" filepath="$PROJECT_DIR$/1.5 Practice Problems/1.5 Practice Problems.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Counting Coins/Counting Coins.iml" filepath="$PROJECT_DIR$/Counting Coins/Counting Coins.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Finding Averages/Finding Averages.iml" filepath="$PROJECT_DIR$/Finding Averages/Finding Averages.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Sales Tax/Sales Tax.iml" filepath="$PROJECT_DIR$/Sales Tax/Sales Tax.iml" />
+      <module fileurl="file://$PROJECT_DIR$/U1-Java-Fundamentals.iml" filepath="$PROJECT_DIR$/U1-Java-Fundamentals.iml" />
+    </modules>
+  </component>
+</project>
