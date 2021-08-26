@@ -28,5 +28,36 @@ public class L8 {
 
         System.out.println("Hello " + name);
         System.out.println("Your gross pay is $" + grossPay);
+
+        // Bugaboo #1 Hanging carriage
+        /*int age;
+        String name;
+
+         System.out.println("What is your age");
+         age = read.nextInt();
+
+         System.out.println("What is your name?");
+         age = read.nextInt();
+
+         System.out.println("What is your graduation year?");
+         int year = read.nextInt();
+
+         System.out.println("Hello " + name + ", you are " + age + "years old!");*/
+
+         read.nextLine(); //Eats up the hanging carriage returns
+
+
+       //* Bugaboo #2 - Tokens
+     String firstName;
+     String lastName;
+
+     System.out.println("What is your full name with age?");
+     firstName = read.nextLine();
+     lastName = read.next();
+     String age = read.nextLine();
+
+        System.out.println("Hello, " + firstName + " " + lastName + "You are " + age + " years old");
+
+
     }
 }
